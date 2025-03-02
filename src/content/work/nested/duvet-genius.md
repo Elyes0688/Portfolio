@@ -1,22 +1,47 @@
 ---
-title: Duvet Genius
-publishDate: 2020-03-04 00:00:00
+title: Orange Project
+publishDate: 2025-03-02 00:00:00
 img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: Orange Project
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  
 tags:
   - Design
   - Dev
-  - Branding
+  - 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+🚀 Une Semaine d'Innovation et de Collaboration !
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Dans le cadre d’un hackathon d’une semaine organisé par Orange, j’ai eu la chance de collaborer avec trois autres passionnés pour relever un défi audacieux : créer une application en intégrant des API en bêta-test fournies par Orange, tout en explorant les thèmes du local, de l’entraide et de la spontanéité.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+💡 Première Immersion en Équipe
+Ce projet a été ma première véritable expérience de travail en groupe sur un challenge à délais serrés. Dans cet environnement stimulant, chacun a participé activement à toutes les étapes du développement, de l’idéation à la présentation finale.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+💻 Technologies et Outils Utilisés
+
+- API Orange (bêta) : Pour offrir des fonctionnalités uniques et originales.
+- HTML5, CSS3, JavaScript : Pour concevoir une interface utilisateur moderne et une logique d’application efficace.
+
+✨ Temps Forts du Hackathon
+
+- Brainstorming et Sélection d’Idée : Nous avons débuté par un remue-méninges où plusieurs concepts ont émergé. Après de riches débats, nous avons retenu l’idée la plus innovante et réalisable.
+- Exploitation Créative des API : Ensemble, nous avons imaginé des manières ingénieuses d’intégrer les API d’Orange pour enrichir l’expérience utilisateur.
+- Répartition Dynamique des Tâches : Chaque membre a pu toucher à divers aspects du projet (développement, intégration, design), ce qui nous a permis d’avoir une vision globale du processus de création d’une application.
+- Collaboration sous Pression : Travailler dans un cadre à échéances strictes a renforcé notre esprit d’équipe et notre capacité à gérer des situations exigeantes.
+   
+
+⚠️ Note Importante
+En raison de la nature bêta des API utilisées, il est possible que certaines fonctionnalités ne soient plus opérationnelles au moment de la lecture de cette description. Il n’est donc pas recommandé de tester l’application sur un ordinateur.
+
+🔧 Processus de Développement
+
+- Idéation : Sessions de brainstorming et choix collectif de l’idée finale.
+- Planification : Définition des étapes clés et réflexion sur l’intégration des API.
+- Développement : Répartition des rôles et travail collaboratif intense pour concrétiser l’application.
+- Présentation : Finalisation du projet avec la création et la présentation du Canvas explicatif.
+
+Ce hackathon fut une expérience formatrice et inspirante, m’offrant l’opportunité de renforcer mes compétences techniques et de découvrir la richesse du travail en équipe dans un contexte innovant.
+
 
 Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
