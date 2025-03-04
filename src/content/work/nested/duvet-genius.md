@@ -8,7 +8,7 @@ description: |
 tags:
   - Design
   - Dev
-  - 
+  - Innovation
 ---
 
 🚀 Une Semaine d'Innovation et de Collaboration !
